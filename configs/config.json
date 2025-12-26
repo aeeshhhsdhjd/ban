@@ -1,13 +1,7 @@
 {
-    "bot_token": "8101342124:AAE_Fzq5kzdzgT8yoXSL4UOEbwiXcS0PTqI",
-    "owner_id": 8018964088,
+    "bot_token": "YOUR_ACTUAL_BOT_TOKEN_HERE",
+    "owner_id": YOUR_TELEGRAM_ID_HERE,
     "otp_expiry_minutes": 5,
     "max_reports_per_day": 100,
-    "max_admins": 50,
-    "database_path": "database/report_bot.db",
-    "backup_interval_hours": 24,
-    "admin_notification_enabled": true,
-    "security_level": "high",
-    "auto_backup": true,
-    "log_level": "INFO"
+    "max_admins": 50
 }
