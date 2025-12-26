@@ -1,6 +1,6 @@
 {
-    "bot_token": "YOUR_BOT_TOKEN_HERE",
-    "owner_id": 1234567890,
+    "bot_token": "8101342124:AAE_Fzq5kzdzgT8yoXSL4UOEbwiXcS0PTqI",
+    "owner_id": 8018964088,
     "otp_expiry_minutes": 5,
     "max_reports_per_day": 100,
     "max_admins": 50,
